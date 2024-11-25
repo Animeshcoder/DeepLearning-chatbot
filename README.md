@@ -18,7 +18,7 @@
 - **Retrieval**: Sentence similarity models (e.g., SBERT, USE)  
 - **Generation**: Generative models (e.g., Gemini Flash 1.5, fine-tuned transformers)  
 - **Backend**: Python, Flask/FastAPI  
-- **Deployment**: Docker, AWS/GCP  
+- **Deployment**: GCP  
 
 ---
 
